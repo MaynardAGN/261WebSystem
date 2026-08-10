@@ -1,0 +1,117 @@
+{<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aldersgate College</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <header>
+            <h1>Aldersgate College</h1>
+        </header>
+
+        <section>
+            <h2>Vision</h2>
+            <p>
+                A 21st Century University transforming a global network of learners
+                for enlightenment, leadership and human service.
+            </p>
+        </section>
+
+        <section>
+            <h2>Mission</h2>
+            <p>
+                Aldersgate College was established to develop the power of reason,
+                to liberate people from ignorance, penury and hopelessness, and to
+                empower them to commence their own journey for social and economic
+                transformation and spiritual salvation.
+            </p>
+        </section>
+
+        <section>
+            <h2>Core Values</h2>
+
+            <div class="value">
+                <h3>Academic Excellence</h3>
+                <p>
+                    Train students to become academically and professionally
+                    competent in the fields of arts and letters; Natural and
+                    Physical Sciences; Business; Management and Economics;
+                    Engineering and Technology; Education; and the Health Sciences.
+                </p>
+            </div>
+
+            <div class="value">
+                <h3>Social Relevance</h3>
+                <p>
+                    Impress norms, values and behaviors that are socially relevant
+                    to the human development needs of the majority and the less
+                    fortunate and at the same time responsive to the ideals of a
+                    democratic society.
+                </p>
+            </div>
+
+            <div class="value">
+                <h3>Spiritual Nurturance</h3>
+                <p>
+                    Evolve and inculcate a spiritual knowingness founded on absolute
+                    Biblical truth and concurrently promoting unity, moral uprightness
+                    and dedication to Christian Service.
+                </p>
+            </div>
+        </section>
+
+        <section>
+            <h2>EOMS Policy</h2>
+
+            <p>
+                We, Aldersgate College Inc., are committed to provide high quality
+                educational programs, service and products, and management of
+                intellectual property.
+            </p>
+
+            <p>
+                We commit to establish, review and maintain an educational
+                organization policy that is supportive of its mission and vision,
+                and for setting organizational objectives, as appropriate to the
+                purpose and context of a UMC educational institution.
+            </p>
+
+            <p>
+                We commit to focus on the specific interaction between our
+                educational organization, the learners, and customers, considering
+                the needs and expectations of relevant interested parties; and to
+                satisfy the organization's social responsibility.
+            </p>
+
+            <p>
+                We commit to demonstrate our ability to consistently provide, share
+                and facilitate the construction of knowledge, while conforming with
+                applicable statutory and regulatory requirements.
+            </p>
+
+            <p>
+                We commit to enhance the satisfaction of learners, other customers
+                and personnel through the effective application and continual
+                improvement of our EOMS, taking into account relevant educational,
+                scientific and technical developments including processes for
+                improvement of the system.
+            </p>
+
+            <p>
+                We shall have available and maintain an educational organization
+                policy which is communicated, understood and applied within the
+                organization, and which may be made available to relevant interested
+                parties, as appropriate.
+            </p>
+        </section>
+
+    </div>
+
+</body>
+</html>}
