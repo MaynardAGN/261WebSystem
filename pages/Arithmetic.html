@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Arithmetic</title>
+</head>
+
+<body>
+
+<h1>Arithmetic</h1>
+
+<button onclick="showDate()">Click me to display Date and Time.</button>
+<br><br>
+
+<input type="number" id="num1" placeholder="Enter Number 1"><br><br>
+<input type="number" id="num2" placeholder="Enter Number 2"><br><br>
+
+<button onclick="calculate()">Click me to display the Sum.</button><br><br>
+
+<input type="text" id="sum" placeholder="Sum" readonly><br>
+<input type="text" id="diff" placeholder="Difference" readonly><br>
+<input type="text" id="product" placeholder="Product" readonly><br>
+<input type="text" id="quotient" placeholder="Quotient" readonly><br>
+<input type="text" id="mod" placeholder="Modulus" readonly>
+
+<script>
+function showDate() {
+    alert(new Date());
+}
+
+function calculate() {
+    var num1 = parseFloat(document.getElementById("num1").value);
+    var num2 = parseFloat(document.getElementById("num2").value);
+
+    var sum = num1 + num2;
+    var diff = num1 - num2;
+    var product = num1 * num2;
+    var quotient = num1 / num2;
+    var mod = num1 % num2;
+
+    document.getElementById("sum").value = sum;
+    document.getElementById("diff").value = diff;
+    document.getElementById("product").value = product;
+    document.getElementById("quotient").value = quotient;
+    document.getElementById("mod").value = mod;
+}
+</script>
+
+</body>
+</html>
